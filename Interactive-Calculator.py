@@ -1,6 +1,6 @@
 while True:
-    x = int(input("Enter your First digit : "))
-    y = int(input("Enter your Second digit : "))
+    x = float(input("Enter your First digit : "))
+    y = float(input("Enter your Second digit : "))
     
     print("Addition = 1 ")
     print("Subtraction = 2")
